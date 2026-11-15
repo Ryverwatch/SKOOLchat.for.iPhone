@@ -13,7 +13,7 @@ Website: https://beyou.figma.site
 
 **[Watch the tutorial video](Tutorial.mp4)** to see how it's done.
 
-If the video is too confusing or the URL doesn't work, follow these steps:
+If the video is too confusing follow these steps:
 
 1. Open **Safari** on your iPhone.
 2. Visit **https://beyou.figma.site**.
