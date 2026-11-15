@@ -11,7 +11,7 @@ Website: https://beyou.figma.site
 
 ## Tutorial
 
-**[Watch the tutorial video](Tutorial.mp4)** to see how it's done.
+**[Watch the tutorial video](https://drive.google.com/file/d/1G2WqEleJllpUqDzaz0Ug7VVS5LqYqVVH/view?usp=drive_link)** to see how it's done.
 
 If the video is too confusing follow these steps:
 
