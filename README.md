@@ -29,7 +29,7 @@ The SKOOLchat icon is now on your home screen. Tap it any time to jump into your
 
 ## Other devices
 
-- **Android:** https://github.com/Ryverwatch/SKOOLchat-Android/releases/latest
-- **Windows:** https://github.com/Ryverwatch/SKOOLchat-Windows/releases/latest
+- **Android:** https://github.com/Ryverwatch/SKOOLchat.for.Android/releases/latest
+- **Windows:** https://github.com/Ryverwatch/SKOOLchat.for.Windows/releases/latest
 
 **Your school. Your conversations.**
